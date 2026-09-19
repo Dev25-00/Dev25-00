@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm <span color="#5865F2"> Lahlou Youssef</span></h1>
+  <h1>👋 Hi, I'm <span color="#5865F2">Youssef Lahlou</span></h1>
   <h3>Full-Stack Software Developer & Computer Engineer</h3>
 
   <p align="center">
@@ -82,8 +82,8 @@ I am a **Computer Engineer & Full-Stack Developer** based in Casablanca. I speci
   
   <br/><br/>
 
-  <!-- TOP LANGUAGES CARD (Corrigé) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev25-00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- TOP LANGUAGES CARD (USING ALTERNATIVE STABLE ENDPOINT) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev25-00&theme=tokyonight" alt="Top Languages" />
 
   <br/><br/>
 
@@ -91,6 +91,7 @@ I am a **Computer Engineer & Full-Stack Developer** based in Casablanca. I speci
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev25-00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 <br/>
 
 <div align="center">
