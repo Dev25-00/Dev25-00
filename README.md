@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm <span color="#5865F2">Lahlou Youssef</span></h1>
+  <h1>👋 Hi, I'm <span color="#5865F2"> Lahlou Youssef</span></h1>
   <h3>Full-Stack Software Developer & Computer Engineer</h3>
 
   <p align="center">
@@ -9,8 +9,8 @@
 
   <!-- BADGES & SOCIAL LINKS -->
   <p align="center">
-    <a href="https://miniservices.tech" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-miniservices.tech-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://lahlou-youssef.vercel.app/api" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-lahlou--youssef.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Youssef_Lahlou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,7 +28,7 @@ I am a **Computer Engineer & Full-Stack Developer** based in Casablanca. I speci
 
 - 🛠️ **Current Focus:** Building production-ready applications with **Angular, Spring Boot, Node.js & Docker**.
 - 🤖 **AI & Automation:** Creating local AI pipelines (**Ollama, LM Studio**) and task automation with **n8n & Puppeteer**.
-- 📱 **Mobile & Cloud:** Developing cross-platform apps using **Capacitor** and deploying edge services with **Cloudflare Tunnels & Vercel**.
+- 📱 **Mobile & Cloud:** Developing cross-platform apps using **Capacitor** and deploying services on **Vercel** and **Cloudflare Tunnels**.
 - ⚡ **Passion:** System optimization, desktop hardware tuning, and interactive media design.
 
 <br/>
@@ -63,8 +63,8 @@ I am a **Computer Engineer & Full-Stack Developer** based in Casablanca. I speci
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
     <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   </p>
