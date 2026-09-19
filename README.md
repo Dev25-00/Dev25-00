@@ -78,20 +78,17 @@ I am a **Computer Engineer & Full-Stack Developer** based in Casablanca. I speci
 <div align="center">
 
   <!-- STATS CARD -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev25-00
-&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev25-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   
   <br/><br/>
 
   <!-- TOP LANGUAGES CARD -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev25-00
-&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev25-00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
   <!-- STREAK STATS CARD -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev25-00
-&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev25-00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
